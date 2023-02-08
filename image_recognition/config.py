@@ -1,0 +1,4 @@
+HOST='192.168.68.22'
+PORT=5050
+UPLOAD_FOLDER = 'images'
+ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
